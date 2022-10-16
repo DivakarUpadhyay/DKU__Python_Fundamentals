@@ -2,3 +2,6 @@
 <h6 style="color:magenta;"><strong>Title: 16th October 2022</strong><h6>
 </center>
 
+ Introduction of Python:
+
+<strong>------</strong>
